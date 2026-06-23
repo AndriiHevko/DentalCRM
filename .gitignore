@@ -1,0 +1,118 @@
+# ==========================================
+# Python & Django
+# ==========================================
+__pycache__/
+*.py[cod]
+*.pyc
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+dist-ssr/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+/backend-django/everythingelse/
+/backend-django/.pytest_cache/
+
+
+# ==========================================
+# Node / TypeScript / Frontend
+# ==========================================
+node_modules/
+dist/
+.npm
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ==========================================
+# C++ / CMake / Qt
+# ==========================================
+build/
+.cmake/
+*.user
+
+# ==========================================
+# Environment & Virtual Envs
+# ==========================================
+.env
+.venv/
+env/
+venv/
+ENV/
+.pylintrc
+
+# ==========================================
+# IDE & Editors (VS Code, CLion, Visual Studio)
+# ==========================================
+.vscode/
+!.vscode/extensions.json
+.idea/
+.vs/
+*.sln
+*.suo
+*.sw?
+*.ntvs*
+*.njsproj
+
+# ==========================================
+# Logs & Databases
+# ==========================================
+logs/
+*.log
+Clinic.db
+*.db
+
+# ==========================================
+# OS generated files
+# ==========================================
+.DS_Store
+Thumbs.db
+
+# ==========================================
+# PyInstaller
+# ==========================================
+*.manifest
+*.spec
+
+# ==========================================
+# Installer logs
+# ==========================================
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ==========================================
+# Unit test / Coverage reports
+# ==========================================
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# ------------------------------------------
+BackEndClinic.txt
